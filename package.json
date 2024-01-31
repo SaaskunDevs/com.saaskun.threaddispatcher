@@ -1,0 +1,12 @@
+{
+    "name": "com.saaskunstudios.thread_dispatcher",
+    "version": "1.0.0",
+    "displayName": "Thread Dispatcher",
+    "description": "Para que el thread se otro proceso pase al inicial",
+    "unity": "2021.4",
+    "author": {
+      "name": "SaaskunStudios",
+      "email": "saaskunstudios@gmail.com",
+      "url": "https://www.saaskunstudios.com"
+    }
+  }
