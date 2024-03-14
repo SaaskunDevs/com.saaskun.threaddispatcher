@@ -113,7 +113,7 @@ public class UnityMainThreadDispatcher : MonoBehaviour {
         }
 
         _instance = this;
-        DontDestroyOnLoad(this.gameObject);
+        //DontDestroyOnLoad(this.gameObject);
     }
 
     void OnDestroy() {
