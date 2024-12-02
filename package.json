@@ -1,5 +1,5 @@
 {
-  "name": "com.saaskunstudios.threaddispatcher",
+  "name": "com.saaskun.threaddispatcher",
   "version": "1.0.0",
   "displayName": "Thread Dispatcher",
   "description": "Para que el thread de otro proceso pase al inicial",
