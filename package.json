@@ -1,12 +1,16 @@
 {
-    "name": "com.saaskunstudios.threaddispatcher",
-    "version": "1.0.0",
-    "displayName": "Thread Dispatcher",
-    "description": "Para que el thread se otro proceso pase al inicial",
-    "unity": "2021.4",
-    "author": {
-      "name": "SaaskunStudios",
-      "email": "saaskunstudios@gmail.com",
-      "url": "https://www.saaskunstudios.com"
-    }
+  "name": "com.saaskunstudios.threaddispatcher",
+  "version": "1.0.0",
+  "displayName": "Thread Dispatcher",
+  "description": "Para que el thread de otro proceso pase al inicial",
+  "unity": "2021.4",
+  "author": {
+    "name": "SaaskunStudios",
+    "email": "saaskunstudios@gmail.com",
+    "url": "https://www.saaskunstudios.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaaskunDevs/com.saaskunstudios.threaddispatcher.git"
   }
+}
